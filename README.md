@@ -20,6 +20,9 @@ d. Drag and drop file/s on the given space, then commit your uploaded files:
 # To move files or to rename files:
 a. Click on the file to be moved or renamed.
 b. Choose the file, then click on the pencil icon (upper right-hand)
+<img width="1485" height="453" alt="image" src="https://github.com/user-attachments/assets/dd9279f3-aa06-45fe-bd1e-b84ccea84b10" />
+
+c. The path and filename on the upper left corner will now be editable (backspace until you reached the portion you want to edit), then click on commit so that the changes will have an effect. This action can both create a folder for the file or change the folder location of a file. This can also allow you to rename the file.
 
 
 
