@@ -17,6 +17,11 @@ c. Choose Upload Files
 d. Drag and drop file/s on the given space, then commit your uploaded files:
 <img width="1586" height="847" alt="image" src="https://github.com/user-attachments/assets/7533e742-30c6-4efa-8ddf-7c61d4238794" />
 
+# To move files or to rename files:
+a. Click on the file to be moved or renamed.
+b. Choose the file, then click on the pencil icon (upper right-hand)
+
+
 
 
 
