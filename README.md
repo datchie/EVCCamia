@@ -11,4 +11,11 @@ a. Click on the appropriate folder
 b. Then, click on Add File button
 <img width="1501" height="332" alt="image" src="https://github.com/user-attachments/assets/5d4b80de-04fe-42c7-b8b1-a7bd42563508" />
 
+c. Choose Upload Files
+<img width="275" height="166" alt="image" src="https://github.com/user-attachments/assets/433046ae-a11d-48d0-92d0-fe098fc8b262" />
+
+d. Drag and drop file/s on the given space, then commit your uploaded files:
+
+
+
 
