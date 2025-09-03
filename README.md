@@ -27,8 +27,10 @@ c. The path and filename on the upper left corner will now be editable (backspac
 
 # To delete a file 
 1. click on the file to change then click on Edit pencil icon.
-2. choose Delete from the drop-down menu
-<img width="1490" height="597" alt="image" src="https://github.com/user-attachments/assets/5bc5f768-4f61-457c-bf3c-9ebb4f489d82" />
+2. On the right hand corner there are three dots, click on it. 
+3. choose Delete from the drop-down menu and make sure to commit the changes.
+<img width="1490" height="597" alt="image" src="https://github.com/user-attachments/assets/14b3f113-8da5-4b93-8da0-f98fcc622340" />
+
 
 
 
