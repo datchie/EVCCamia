@@ -23,6 +23,11 @@ b. Choose the file, then click on the pencil icon (upper right-hand)
 <img width="1485" height="453" alt="image" src="https://github.com/user-attachments/assets/dd9279f3-aa06-45fe-bd1e-b84ccea84b10" />
 
 c. The path and filename on the upper left corner will now be editable (backspace until you reached the portion you want to edit), then click on commit so that the changes will have an effect. This action can both create a folder for the file or change the folder location of a file. This can also allow you to rename the file.
+<img width="1486" height="72" alt="image" src="https://github.com/user-attachments/assets/70dad088-ea55-4e37-959e-54693a19999f" />
+
+# To delete a file, click on the file to change then click on Edit pencil icon.
+
+
 
 
 
