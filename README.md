@@ -15,6 +15,8 @@ c. Choose Upload Files
 <img width="275" height="166" alt="image" src="https://github.com/user-attachments/assets/433046ae-a11d-48d0-92d0-fe098fc8b262" />
 
 d. Drag and drop file/s on the given space, then commit your uploaded files:
+<img width="1586" height="847" alt="image" src="https://github.com/user-attachments/assets/7533e742-30c6-4efa-8ddf-7c61d4238794" />
+
 
 
 
