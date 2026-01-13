@@ -31,7 +31,7 @@ c. The path and filename on the upper left corner will now be editable (backspac
 3. choose Delete from the drop-down menu and make sure to commit the changes.
 <img width="1490" height="597" alt="image" src="https://github.com/user-attachments/assets/14b3f113-8da5-4b93-8da0-f98fcc622340" />
 
-# To crete a Folder by uploading an existing folder in your computer
+# To create a Folder by uploading an existing folder in your computer
 If you already have a folder with files on your local computer, you can upload it directly: 
 1. Navigate to your repository on GitHub.com.
 2. Click on the "Add file" dropdown menu and select "Upload files".
